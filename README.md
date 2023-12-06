@@ -64,3 +64,20 @@ Após acessar o link, você verá uma página com a seguinte estrutura:
 Esperamos que essa breve explicação tenha dado a você uma ideia das tecnologias que estão por trás do seu painel e o motivo de suas escolhas. Elas foram escolhidas pensando em eficiência, facilidade de uso e estabilidade.
 
 Esperamos que este manual tenha sido útil. Se tiver alguma dúvida ou se algo não estiver claro, por gentileza, entre em contato conosco através do e-mail kinsley.davis@gmail.com ! Estamos aqui para garantir que você possa usar este Painel Administrativo com confiança e eficiência.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
