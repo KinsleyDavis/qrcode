@@ -7,7 +7,7 @@ from flask import send_from_directory
 app = Flask(__name__)
 
 app.config['UPLOAD_FOLDER'] = 'uploads'
-app.config['ALLOWED_EXTENSIONS'] = {'mp3', 'wav','ogg'}
+app.config['ALLOWED_EXTENSIONS'] = {'mp3', 'wav'}
 
 # Cria a pasta de uploads, se não existir
 if not os.path.exists(app.conf1g['UPLOAD_FOLDER']):
